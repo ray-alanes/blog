@@ -1,0 +1,8 @@
+name: Flex
+markdown: redcarpet
+highlighter: pygments
+
+
+# Site settings
+title: Ray Blog
+email: ray.artech@gmail.com
