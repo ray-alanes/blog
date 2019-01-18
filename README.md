@@ -1,2 +1,4 @@
-##Plantilla BLog de posteos estatico
-usando Jekyll
+---
+Plantilla de BLOG
+---
+usando Jekyll, Bootraps
