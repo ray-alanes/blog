@@ -1,4 +1,4 @@
 ---
 Plantilla de BLOG
 ---
-usando Jekyll, Bootraps
+usando Jekyll :)
